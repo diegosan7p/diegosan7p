@@ -15,7 +15,7 @@
   <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Diego-pic" height="75" src="https://cdn.discordapp.com/attachments/655761274545897525/988508266906648626/download20220601151727.png">
+  <img align="right" alt="Diego-pic" height="75" src="https://cdn.discordapp.com/attachments/703411180135383110/988576643910086706/Webp.net-gifmaker.gif">
 </div>
     </br>
   <div> 
