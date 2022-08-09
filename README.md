@@ -1,7 +1,7 @@
 ### Olá me chamo Diego Santana 👋
 
 - 🔭 Procuro oportunidade como Front-end
-- 🌱 Estudando Javascript, React
+- 🌱 Estudando Python
 - 📫 Contate-me no email: diegosanlima97@gmail.com
 - 🎫 Beacons: https://beacons.ai/diegosan97
 
